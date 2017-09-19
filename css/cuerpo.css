@@ -1,0 +1,19 @@
+
+/*parte general del body*/
+
+ body{
+ background-color:#e6ffff;
+ margin:0px;
+ 
+ 
+ 
+ }
+ 
+ header{
+ display:block;
+ }
+ 
+ #contenedor{
+	max-width:1000px;
+	margin:auto;
+ }
